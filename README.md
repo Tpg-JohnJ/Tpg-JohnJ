@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
-- This account is special made for my (John J.) stuff at Tech Playgrounds.
+- This account is special made for my (John J.) stuff at Tech Playgrounds. www.techplaygrounds.nl 
 - location:  Eindhoven & Best in the Netherlands (Europe)
 
 <!---
